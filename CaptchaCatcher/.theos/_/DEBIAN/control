@@ -1,0 +1,10 @@
+Package: com.cb.captchacatcher
+Name: CaptchaCatcher
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A SMS verification code capture tweak.
+Maintainer: cbangchen
+Author: cbangchen
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 172
