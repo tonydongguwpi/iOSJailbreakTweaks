@@ -28,7 +28,7 @@ static void callback(CFNotificationCenterRef center,
 		if (msg) {
 			 msgText = [msg valueForKey:@"_text"];
 			 if (msgText.length) {
-			 	[@[@"验证码", @"verification", @"validation", @"code", @"码", @"security", @"captcha", @"auth", @"identifying", @"验证"] enumerateObjectsUsingBlock:^(NSString *obj, NSUInteger idx, BOOL * _Nonnull stop) {
+			 	[@[@"验证码", @"verification", @"validation", @"code", @"码", @"security", @"captcha", @"auth", @"identifying", @"验证", @"标志码"] enumerateObjectsUsingBlock:^(NSString *obj, NSUInteger idx, BOOL * _Nonnull stop) {
             		if ([msgText containsString:obj]) {
             			NSRange range = [msgText rangeOfString:@"[A-Za-z0-9]{4,}(?![A-Za-z0-9])" options:NSRegularExpressionSearch];
 			 			if (range.location != NSNotFound) {
