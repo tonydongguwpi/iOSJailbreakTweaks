@@ -1,0 +1,11 @@
+Package: com.cbangchen.hazestatusbar
+Name: HazeStatusBar
+Depends: mobilesubstrate, libactivator, PreferenceLoader, org.thebigboss.libstatus9, firmware(>=9.1)
+Architecture: iphoneos-arm
+Description: A tweak that help you to monitor air quality everyday, so that you can decide whether to wear a mask.
+Maintainer: cbangchen
+Author: cbangchen
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/HazeStatusBarPref.bundle/haze
+Version: 0.0.1-204+debug
+Installed-Size: 336

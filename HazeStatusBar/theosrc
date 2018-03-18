@@ -1,0 +1,2 @@
+SDKVERSION = 9.3
+SYSROOT = $(THEOS)/sdks/iPhoneOS9.3.sdk
