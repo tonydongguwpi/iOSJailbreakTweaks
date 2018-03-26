@@ -7,8 +7,8 @@ HazeStatusBar_LIBRARIES = activator
 
 include /opt/theos/makefiles/common.mk
 include /opt/theos/makefiles/tweak.mk
+include /opt/theos/makefiles/aggregate.mk
 
 after-install::
 	install.exec "killall -9 SpringBoard"
-SUBPROJECTS += hazestatusbarpref
-include $(THEOS_MAKE_PATH)/aggregate.mk
+
