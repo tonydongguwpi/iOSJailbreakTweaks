@@ -1,4 +1,4 @@
-# iOSJailbreakPlugIns
+# iOSJailbreakTweaks
 
 ## CaptchaCatcher
 
