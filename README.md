@@ -2,13 +2,12 @@
 
 ## CaptchaCatcher
 
-[![](http://moreinfo.thebigboss.org/moreinfo/captchacatcher2.jpg)](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=captchacatcherDp)
+<img src="http://moreinfo.thebigboss.org/moreinfo/captchacatcher2.jpg" width="350" />
 
 ## WXAppShortCutGenerator
 
-[![](http://moreinfo.thebigboss.org/moreinfo/wxappshortcutgenerator1.jpg)](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxappshortcutgeneratorDp)[![](http://moreinfo.thebigboss.org/moreinfo/wxappshortcutgenerator2.jpg)](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxappshortcutgeneratorDp)
+<img src="http://moreinfo.thebigboss.org/moreinfo/wxappshortcutgenerator1.jpg" width="350" /><img src="http://moreinfo.thebigboss.org/moreinfo/wxappshortcutgenerator2.jpg" width="350" />
 
 ## HazeStatusBar
 
-[![](http://moreinfo.thebigboss.org/moreinfo/hazestatusbar1.jpg)](http://cydia.saurik.com/package/com.cbangchen.hazestatusbar/)
-[![](http://moreinfo.thebigboss.org/moreinfo/hazestatusbar2.jpg)](http://cydia.saurik.com/package/com.cbangchen.hazestatusbar/)
+<img src="http://moreinfo.thebigboss.org/moreinfo/hazestatusbar1.jpg" width="350" /><img src="http://moreinfo.thebigboss.org/moreinfo/hazestatusbar2.jpg" width="350" />
