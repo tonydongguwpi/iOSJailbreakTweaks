@@ -2,7 +2,7 @@
 
 ## CaptchaCatcher
 
-[![](http://moreinfo.thebigboss.org/moreinfo/captchacatcher2.jpg)](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=captchacatcherDp)[![](http://moreinfo.thebigboss.org/moreinfo/captchacatcher2.jpg)](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=captchacatcherDp)
+[![](http://moreinfo.thebigboss.org/moreinfo/captchacatcher2.jpg)](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=captchacatcherDp)
 
 ## WXAppShortCutGenerator
 
